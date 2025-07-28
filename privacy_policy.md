@@ -1,4 +1,8 @@
-# Privacy Policy
+# Cross Stitch Thread Organizer Privacy Policy
+
+by IsegrimStitches
+
+## Privacy Policy
 
 As an app creator, we take the protection of all personal data very seriously. All personal information is treated confidentially and in accordance with legal requirements, as explained in this privacy policy.
 
@@ -13,6 +17,6 @@ For questions regarding data protection, please send us a message to isegrim.app
 ## Responsible in the sense of the data protection act:
 
 Dominik Schmidt<br />
-Wilhelm-Spaeth-Strasse 55a<br />
-90461 Nuremberg<br />
+Gleiwitzer Str. 8<br />
+90522 Oberasbach<br />
 GERMANY
